@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelakder Lounis</h1>
-<h3 align="center">A passionate Arftificial Intelligence and Software Engineering from Algeria</h3>
+<h3 align="center">A passionate Artificial Intelligence and Software Engineering from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoutony&label=Profile%20views&color=0e75b6&style=flat" alt="abdoutony" /> </p>
 
